@@ -1,0 +1,2917 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    37.783469,
+                    55.800362
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "33c40a08-de13-4485-ab29-4ba3049979f4",
+                "Attributes": {
+                    "name": "Лицей духовной культуры во имя преподобного Серафима Саровского",
+                    "adress": null,
+                    "okrug": "Восточный административный округ",
+                    "rayon": "район Измайлово",
+                    "form_of_incorporation": "Негосударственное",
+                    "submission": "Негосударственное",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "163-15-41,164-79-60",
+                    "web_site": "noupravoslavie.mskobr.ru",
+                    "e_mail": "praoslaie-licey@rambler.ru",
+                    "X": "37,783469",
+                    "Y": "55,800362",
+                    "global_id": "86887723"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.626958,
+                    55.667743
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "786aa80b-9753-47a6-8de6-bb0b1429c7ed",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы центр образования № 504 \"Полюс\"",
+                    "adress": "117556, г. Москва, Варшавское ш., д. 67",
+                    "okrug": "Южный административный округ",
+                    "rayon": "район Чертаново Южное",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Южное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(495) 389-15-27",
+                    "web_site": "сou504.mskobr.ru",
+                    "e_mail": "sch504@sinergi.ru",
+                    "X": "37,626958",
+                    "Y": "55,667743",
+                    "global_id": "87029760"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.55557,
+                    55.697972
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "c5167a0c-44ae-4459-8da0-b5980c649ad1",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей \"Вторая школа\"",
+                    "adress": "119333, город Москва, улица Фотиевой, дом 18",
+                    "okrug": "Юго-Западный административный округ",
+                    "rayon": "Гагаринский район",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Юго-Западное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "137-69-31",
+                    "web_site": "http://lycuz2.mskobr.ru/",
+                    "e_mail": "moscowsch2@yandex.ru",
+                    "X": "37,55557",
+                    "Y": "55,697972",
+                    "global_id": "87029417"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.595734,
+                    55.787712
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "f50ac70e-d23b-45d8-a5fa-510368ac5339",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы многопрофильный технический лицей № 1501",
+                    "adress": "127055 г. Москва, Тихвинский пер., д. 3",
+                    "okrug": "Центральный административный округ",
+                    "rayon": "Тверской район",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Центральное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(499) 973-02-83",
+                    "web_site": "lycc1501.mskobr.ru",
+                    "e_mail": "lyceum1501@mail.ru",
+                    "X": "37,595734",
+                    "Y": "55,787712",
+                    "global_id": "86887673"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.481191,
+                    55.566084
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "f6cacd12-3537-49c2-a2d2-037d7bdaef0f",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей № 1791",
+                    "adress": "142770, г. Москва, поселение Сосенское, пос. Коммунарка",
+                    "okrug": null,
+                    "rayon": null,
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Троицкое и новомосковское окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(498)617-81-46",
+                    "web_site": "lyc1791tn.mskobr.ru",
+                    "e_mail": null,
+                    "X": "37,481191",
+                    "Y": "55,566084",
+                    "global_id": "86930995"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.829541,
+                    55.824675
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "20cce313-7cea-4c3f-b4bb-46b793ae719e",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей № 1598",
+                    "adress": "107589, г.Москва, ул. Хабаровская, д. 18А",
+                    "okrug": "Восточный административный округ",
+                    "rayon": "район Гольяново",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Восточное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(495) 466-34-14; (495) 466-34-52",
+                    "web_site": "lycv1598.mskobr.ru/",
+                    "e_mail": "info-1598@yandex.ru",
+                    "X": "37,829541",
+                    "Y": "55,824675",
+                    "global_id": "86914890"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.554346,
+                    55.702554
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "f79b9b1b-8120-4413-a6f9-37b8913e86fb",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей № 1525 \"Воробьевы горы\"",
+                    "adress": "119334, г. Москва, ул. Косыгина, дом 17",
+                    "okrug": "Юго-Западный административный округ",
+                    "rayon": "Гагаринский район",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Юго-Западное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "939-86-70",
+                    "web_site": "http://lycg1525.mskobr.ru/",
+                    "e_mail": "info@licey1525.ru",
+                    "X": "37,554346",
+                    "Y": "55,702554",
+                    "global_id": "87029988"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.651617,
+                    55.669172
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "9cbf051c-6919-485c-9d5f-906c46fea635",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей №507",
+                    "adress": "115446 г. Москва, Садовники д.12",
+                    "okrug": "Южный административный округ",
+                    "rayon": "район Нагатино-Садовники",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Южное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(499) 618-26-60; (499) 618-25-94",
+                    "web_site": "cou1472.mskobr.ru",
+                    "e_mail": "sch507@sinergi.ru",
+                    "X": "37,651617",
+                    "Y": "55,669172",
+                    "global_id": "87028836"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.613211,
+                    55.710832
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "4ffae31f-a8d5-4b9a-b386-d9c89cf8759b",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей №1451",
+                    "adress": "115191 г. Москва, ул. Мытная, дом 50 корпус 3",
+                    "okrug": "Южный административный округ",
+                    "rayon": "Даниловский район",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Южное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(495) 954-42-05",
+                    "web_site": "cou1451.mskobr.ru",
+                    "e_mail": "sch1451@sinergi.ru",
+                    "X": "37,613211",
+                    "Y": "55,710832",
+                    "global_id": "86931037"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.235702,
+                    55.999254
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "09fb9927-fc4c-467e-974e-b21e171a6689",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей № 1557",
+                    "adress": "124536, г. Москва, Зеленоград, корп. 509",
+                    "okrug": "Зеленоградский административный округ",
+                    "rayon": "район Савёлки",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Зеленоградское окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(499) 734-68-08; (499) 734-25-20",
+                    "web_site": "lyczg1557.mskobr.ru/",
+                    "e_mail": "s1557@zou.ru",
+                    "X": "37,235702",
+                    "Y": "55,999254",
+                    "global_id": "87013801"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.782105,
+                    55.743298
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "92f3e227-4a50-4118-ba65-8e2ea52b9085",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение Московский  культурологический лицей № 1310",
+                    "adress": "111141 г. Москва, ул. Перовская, д. 44а",
+                    "okrug": "Восточный административный округ",
+                    "rayon": "район Новогиреево",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Восточное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "770-25-24",
+                    "web_site": "lyc1310v.mskobr.ru",
+                    "e_mail": "secretar@lgo.ru",
+                    "X": "37,782105",
+                    "Y": "55,743298",
+                    "global_id": "86887672"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.359622,
+                    55.829357
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "3d2e852a-f1f0-4599-b727-190bedabe3e2",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей № 1564",
+                    "adress": "125222, г. Москва, улица Рословка, дом 8",
+                    "okrug": "Северо-Западный административный округ",
+                    "rayon": "район Митино",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Северо-Западное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(495) 505-97-60",
+                    "web_site": null,
+                    "e_mail": "info@lic1564.ru",
+                    "X": "37,359622",
+                    "Y": "55,829357",
+                    "global_id": "87029009"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.651026,
+                    55.668254
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "750b892b-73bb-4897-b48e-60b688994b1b",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей №507",
+                    "adress": "115446 г. Москва, Садовники д.12",
+                    "okrug": "Южный административный округ",
+                    "rayon": "район Нагатино-Садовники",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Южное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(499) 618-26-60; (499) 618-25-94",
+                    "web_site": "cou1472.mskobr.ru",
+                    "e_mail": "sch507@sinergi.ru",
+                    "X": "37,651026",
+                    "Y": "55,668254",
+                    "global_id": "87028835"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.649058,
+                    55.720986
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "12b20e2c-1a6e-4055-a41c-891cc027657a",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей № 1553 \"Лицей на Донской\"",
+                    "adress": "115114 г. Москва, ул. Дербеневская д.13",
+                    "okrug": "Южный административный округ",
+                    "rayon": "Даниловский район",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Южное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(495) 959-77-38; (495) 959-76-71",
+                    "web_site": "lycu1553.mskobr.ru/",
+                    "e_mail": "sch1553@sinergi.ru",
+                    "X": "37,649058",
+                    "Y": "55,720986",
+                    "global_id": "86887560"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.7769,
+                    55.662154
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "5cf52d2c-2958-4fae-9174-c134d4545b93",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей № 1547",
+                    "adress": "109469, г. Москва, ул. Белореченская, д. 47, корп. 1",
+                    "okrug": "Юго-Восточный административный округ",
+                    "rayon": "район Марьино",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Юго-Восточное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "346-30-01",
+                    "web_site": "licuv1547.mskobr.ru",
+                    "e_mail": "info@licey1547.ru",
+                    "X": "37,7769",
+                    "Y": "55,662154",
+                    "global_id": "86899720"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.695661,
+                    55.779014
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "156be92c-d210-41d7-a892-6a96bf9ddc35",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей № 1589",
+                    "adress": "105082 г.Москва, ул.Фридриха Энгельса, д.79, стр.1,2,3.",
+                    "okrug": "Центральный административный округ",
+                    "rayon": "Басманный район",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Центральное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(495) 261-15-45; (495) 267-68-80; (495) 975-16-41; (495) 975-18-76",
+                    "web_site": null,
+                    "e_mail": "licey@mail.ru",
+                    "X": "37,695661",
+                    "Y": "55,779014",
+                    "global_id": "87029694"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.230033,
+                    55.998625
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "c0bc602d-7f68-41fa-a1c4-021c5fe4eee6",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей № 1557",
+                    "adress": "124536, г. Москва, Зеленоград, корп. 509",
+                    "okrug": "Зеленоградский административный округ",
+                    "rayon": "район Савёлки",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Зеленоградское окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(499) 734-68-08; (499) 734-25-20",
+                    "web_site": "lyczg1557.mskobr.ru/",
+                    "e_mail": "s1557@zou.ru",
+                    "X": "37,230033",
+                    "Y": "55,998625",
+                    "global_id": "87028603"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.555832,
+                    55.704718
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "e052c12e-8f03-4fba-9278-c683b2767ddf",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей № 1525 \"Воробьевы горы\"",
+                    "adress": "119334, г. Москва, ул. Косыгина, дом 17",
+                    "okrug": "Юго-Западный административный округ",
+                    "rayon": "Гагаринский район",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Юго-Западное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "939-86-70",
+                    "web_site": "http://lycg1525.mskobr.ru/",
+                    "e_mail": "info@licey1525.ru",
+                    "X": "37,555832",
+                    "Y": "55,704718",
+                    "global_id": "87029990"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.621491,
+                    55.663948
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "76aed42e-53db-405b-8664-7386d5317413",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы центр образования № 504 \"Полюс\"",
+                    "adress": "117556, г. Москва, Варшавское ш., д. 67",
+                    "okrug": "Южный административный округ",
+                    "rayon": "район Чертаново Южное",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Южное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(495) 389-15-27",
+                    "web_site": "сou504.mskobr.ru",
+                    "e_mail": "sch504@sinergi.ru",
+                    "X": "37,621491",
+                    "Y": "55,663948",
+                    "global_id": "87029758"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.719088,
+                    55.874383
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "b26fb12f-58fa-4055-87d6-8005f6cde840",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей информационных технологий № 1537",
+                    "adress": "129347, г. Москва, ул. Проходчиков, д.9",
+                    "okrug": "Северо-Восточный административный округ",
+                    "rayon": "Ярославский район",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Северо-Восточное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(499) 182-19-44",
+                    "web_site": "lyc1537sv.mskobr.ru",
+                    "e_mail": "lit1537@mail.ru",
+                    "X": "37,719088",
+                    "Y": "55,874383",
+                    "global_id": "86907935"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.224053,
+                    55.99409
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "7534e731-ddbc-4341-bc4a-20c8e668c23a",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей № 1557",
+                    "adress": "124536, г. Москва, Зеленоград, корп. 509",
+                    "okrug": "Зеленоградский административный округ",
+                    "rayon": "район Савёлки",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Зеленоградское окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(499) 734-68-08; (499) 734-25-20",
+                    "web_site": "lyczg1557.mskobr.ru/",
+                    "e_mail": "s1557@zou.ru",
+                    "X": "37,224053",
+                    "Y": "55,99409",
+                    "global_id": "87028604"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.221629,
+                    55.996451
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "62691f32-7178-46f1-ae9a-050a19e0977d",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей № 1557",
+                    "adress": "124536, г. Москва, Зеленоград, корп. 509",
+                    "okrug": "Зеленоградский административный округ",
+                    "rayon": "район Савёлки",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Зеленоградское окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(499) 734-68-08; (499) 734-25-20",
+                    "web_site": "lyczg1557.mskobr.ru/",
+                    "e_mail": "s1557@zou.ru",
+                    "X": "37,221629",
+                    "Y": "55,996451",
+                    "global_id": "87028602"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.698714,
+                    55.638926
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "63758c3b-5e8e-4185-b201-ae171e0a51e0",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей № 1828 \"Сабурово\"",
+                    "adress": "115211 Москва, Каширское ш. д.55-7",
+                    "okrug": "Южный административный округ",
+                    "rayon": "район Москворечье-Сабурово",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Южное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "344-70-54",
+                    "web_site": "cou1828.mskobr.ru",
+                    "e_mail": "sch1828@sinergi.ru",
+                    "X": "37,698714",
+                    "Y": "55,638926",
+                    "global_id": "87028680"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.231727,
+                    55.998123
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "83e77b3c-fa40-4191-a37d-04094bcc4473",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей № 1557",
+                    "adress": "124536, г. Москва, Зеленоград, корп. 509",
+                    "okrug": "Зеленоградский административный округ",
+                    "rayon": "район Савёлки",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Зеленоградское окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(499) 734-68-08; (499) 734-25-20",
+                    "web_site": "lyczg1557.mskobr.ru/",
+                    "e_mail": "s1557@zou.ru",
+                    "X": "37,231727",
+                    "Y": "55,998123",
+                    "global_id": "86914841"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.442863,
+                    55.854477
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "0db12f45-909b-4743-b080-4b5c222d68bf",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей № 1571",
+                    "adress": "125481, г. Москва, ул. Фомичевой, д. 1, корп. 1",
+                    "okrug": "Северо-Западный административный округ",
+                    "rayon": "район Северное Тушино",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Северо-Западное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(495) 492-35-11; (495) 492-35-71",
+                    "web_site": "lyc1571.mskobr.ru",
+                    "e_mail": "lic1571@szouo.ru ",
+                    "X": "37,442863",
+                    "Y": "55,854477",
+                    "global_id": "87029781"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.696022,
+                    55.778886
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "01a55045-6dff-4478-82bb-351335aa9003",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей № 1589",
+                    "adress": "105082 г.Москва, ул.Фридриха Энгельса, д.79, стр.1,2,3.",
+                    "okrug": "Центральный административный округ",
+                    "rayon": "Басманный район",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Центральное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(495) 261-15-45; (495) 267-68-80; (495) 975-16-41; (495) 975-18-76",
+                    "web_site": null,
+                    "e_mail": "licey@mail.ru",
+                    "X": "37,696022",
+                    "Y": "55,778886",
+                    "global_id": "87029693"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.513556,
+                    55.709343
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "787cb445-a438-460f-8550-6d91693a6478",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей № 1586",
+                    "adress": "119330 г.Москва, ул.Дружбы, д. 8",
+                    "okrug": "Западный административный округ",
+                    "rayon": "район Раменки",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Западное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(499) 147-45-81; (499) 143-16-20",
+                    "web_site": null,
+                    "e_mail": "lyceum1586@gmail.com",
+                    "X": "37,513556",
+                    "Y": "55,709343",
+                    "global_id": "86887772"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.441841,
+                    55.862819
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "1478de46-496f-4c37-aca7-ce704ed7a488",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей № 1571",
+                    "adress": "125481, г. Москва, ул. Фомичевой, д. 1, корп. 1",
+                    "okrug": "Северо-Западный административный округ",
+                    "rayon": "район Северное Тушино",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Северо-Западное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(495) 492-35-11; (495) 492-35-71",
+                    "web_site": "lyc1571.mskobr.ru",
+                    "e_mail": "lic1571@szouo.ru ",
+                    "X": "37,441841",
+                    "Y": "55,862819",
+                    "global_id": "87029779"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.654025,
+                    55.665664
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "7bdff54c-5dea-4455-b231-c112268879ed",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей №507",
+                    "adress": "115446 г. Москва, Садовники д.12",
+                    "okrug": "Южный административный округ",
+                    "rayon": "район Нагатино-Садовники",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Южное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(499) 618-26-60; (499) 618-25-94",
+                    "web_site": "cou1472.mskobr.ru",
+                    "e_mail": "sch507@sinergi.ru",
+                    "X": "37,654025",
+                    "Y": "55,665664",
+                    "global_id": "87028837"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.830349,
+                    55.760506
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "33a2ec4d-32da-4fc2-aaeb-75d2ed60e43a",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей № 1502 при МЭИ",
+                    "adress": "111555, г. Москва,  ул.  Молостовых,  д. 10А",
+                    "okrug": "Восточный административный округ",
+                    "rayon": "район Ивановское",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Восточное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(495) 307-11-61; (495) 300-00-20",
+                    "web_site": "lycg1502.mskobr.ru",
+                    "e_mail": "lyceum1502@inbox.ru",
+                    "X": "37,830349",
+                    "Y": "55,760506",
+                    "global_id": "86930736"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.653728,
+                    55.668738
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "d70a574f-8892-49b7-a2b5-7cf826323d7d",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей №507",
+                    "adress": "115446 г. Москва, Садовники д.12",
+                    "okrug": "Южный административный округ",
+                    "rayon": "район Нагатино-Садовники",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Южное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(499) 618-26-60; (499) 618-25-94",
+                    "web_site": "cou1472.mskobr.ru",
+                    "e_mail": "sch507@sinergi.ru",
+                    "X": "37,653728",
+                    "Y": "55,668738",
+                    "global_id": "86931039"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.681319,
+                    55.676895
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "60af2850-ce64-44cf-b876-a94896a498db",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей № 1523",
+                    "adress": "115142 г. Москва, Кленовый б-р, д. 21",
+                    "okrug": "Южный административный округ",
+                    "rayon": "район Нагатинский Затон",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Южное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(499) 614-50-94",
+                    "web_site": "http://lycu1523.mskobr.ru",
+                    "e_mail": "sch1523@sinergi.ru",
+                    "X": "37,681319",
+                    "Y": "55,676895",
+                    "global_id": "86887558"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.596941,
+                    55.779798
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "f66d4f5c-3dcc-4a2a-a72d-acf303b1eda2",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей № 1574",
+                    "adress": "125047 г. Москва, 1-я Миусская ул., д.4",
+                    "okrug": "Центральный административный округ",
+                    "rayon": "Тверской район",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Центральное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(499) 972-32-28",
+                    "web_site": "lycc1574.mskobr.ru",
+                    "e_mail": "s174@mail.ru",
+                    "X": "37,596941",
+                    "Y": "55,779798",
+                    "global_id": "86904117"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.570733,
+                    55.781992
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "8d709c5d-8588-4324-bdfd-98f2eea613af",
+                "Attributes": {
+                    "name": "Негосударственная международная образовательная некоммерческая организация \"Международный университет в Москве\". Лицей",
+                    "adress": null,
+                    "okrug": "Северный административный округ",
+                    "rayon": "район Беговой",
+                    "form_of_incorporation": "Негосударственное",
+                    "submission": "Негосударственное",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(495) 946-10-67,(495) 946-05-20",
+                    "web_site": null,
+                    "e_mail": "liceуmum@gmail.com",
+                    "X": "37,570733",
+                    "Y": "55,781992",
+                    "global_id": "86887600"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.640437,
+                    55.782602
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "ca80a55d-9f53-476b-b937-6b15447d39ba",
+                "Attributes": {
+                    "name": "Негосударственное образовательное учреждение средняя общеобразовательная школа «Московский лицей «Ступени»",
+                    "adress": null,
+                    "okrug": "Центральный административный округ",
+                    "rayon": "Мещанский район",
+                    "form_of_incorporation": "Негосударственное",
+                    "submission": "Негосударственное",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(495) 680-54-83,(495) 680-89-55",
+                    "web_site": "noustupeni.mskobr.ru",
+                    "e_mail": "stupeni@dol.ru",
+                    "X": "37,640437",
+                    "Y": "55,782602",
+                    "global_id": "86887785"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.543757,
+                    55.692293
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "6025c65e-91b1-46f2-a6dd-2abc30bef979",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей № 1533 (информационных технологий)",
+                    "adress": "119296, г. Москва, Ломоносовский проспект, дом 16",
+                    "okrug": "Юго-Западный административный округ",
+                    "rayon": "Гагаринский район",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Юго-Западное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(499) 133-24-35",
+                    "web_site": null,
+                    "e_mail": "info@lit.msu.ru",
+                    "X": "37,543757",
+                    "Y": "55,692293",
+                    "global_id": "87029692"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.679171,
+                    55.751868
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "6575ce5f-e467-4a31-b74a-9b4e87fa0f29",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей № 1303",
+                    "adress": "111033, г. Москва, Таможенный пр., д. 4",
+                    "okrug": "Юго-Восточный административный округ",
+                    "rayon": "район Лефортово",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Юго-Восточное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(495) 362-34-40",
+                    "web_site": "lycg1303.mskobr.ru",
+                    "e_mail": "ses@1303.ru",
+                    "X": "37,679171",
+                    "Y": "55,751868",
+                    "global_id": "86914932"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.614363,
+                    55.713445
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "b583c160-66b2-4d49-9d52-ad05cf0c674e",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей №1451",
+                    "adress": "115191 г. Москва, ул. Мытная, дом 50 корпус 3",
+                    "okrug": "Южный административный округ",
+                    "rayon": "Даниловский район",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Южное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(495) 954-42-05",
+                    "web_site": "cou1451.mskobr.ru",
+                    "e_mail": "sch1451@sinergi.ru",
+                    "X": "37,614363",
+                    "Y": "55,713445",
+                    "global_id": "87029304"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.35319,
+                    55.83343
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "149bd862-25b1-46c9-99d1-f10abdbd756a",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей № 1564",
+                    "adress": "125222, г. Москва, улица Рословка, дом 8",
+                    "okrug": "Северо-Западный административный округ",
+                    "rayon": "район Митино",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Северо-Западное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(495) 505-97-60",
+                    "web_site": null,
+                    "e_mail": "info@lic1564.ru",
+                    "X": "37,35319",
+                    "Y": "55,83343",
+                    "global_id": "86931046"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.444173,
+                    55.864583
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "1dae3a66-e579-442a-acd5-e4315511243d",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей № 1571",
+                    "adress": "125481, г. Москва, ул. Фомичевой, д. 1, корп. 1",
+                    "okrug": "Северо-Западный административный округ",
+                    "rayon": "район Северное Тушино",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Северо-Западное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(495) 492-35-11; (495) 492-35-71",
+                    "web_site": "lyc1571.mskobr.ru",
+                    "e_mail": "lic1571@szouo.ru ",
+                    "X": "37,444173",
+                    "Y": "55,864583",
+                    "global_id": "87029777"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.596325,
+                    55.63506
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "29c5136e-2a97-4442-b074-229295e19010",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей №1158",
+                    "adress": "117648, г. Москва, микрорайон Северное Чертаново корп. 809",
+                    "okrug": "Южный административный округ",
+                    "rayon": "район Чертаново Северное",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Южное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(495) 312-04-60",
+                    "web_site": "cou1158.mskobr.ru",
+                    "e_mail": "sch1158@sinergi.ru",
+                    "X": "37,596325",
+                    "Y": "55,63506",
+                    "global_id": "87029562"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.556414,
+                    55.698002
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "aeaa196f-e96e-4561-a23e-8381e08b059f",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей \"Вторая школа\"",
+                    "adress": "119333, город Москва, улица Фотиевой, дом 18",
+                    "okrug": "Юго-Западный административный округ",
+                    "rayon": "Гагаринский район",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Юго-Западное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "137-69-31",
+                    "web_site": "http://lycuz2.mskobr.ru/",
+                    "e_mail": "moscowsch2@yandex.ru",
+                    "X": "37,556414",
+                    "Y": "55,698002",
+                    "global_id": "86899623"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.354046,
+                    55.83216
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "3562b777-693a-40a7-85c5-f7bc77133f43",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей № 1564",
+                    "adress": "125222, г. Москва, улица Рословка, дом 8",
+                    "okrug": "Северо-Западный административный округ",
+                    "rayon": "район Митино",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Северо-Западное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(495) 505-97-60",
+                    "web_site": null,
+                    "e_mail": "info@lic1564.ru",
+                    "X": "37,354046",
+                    "Y": "55,83216",
+                    "global_id": "87029007"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.36677,
+                    55.516896
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "a682c677-bb3b-4b17-bf10-3a10450a821a",
+                "Attributes": {
+                    "name": "Муниципальное автономное общеобразовательное учреждение \"Лицей города Троицка\"",
+                    "adress": "142190, Москва Город, Троицк Город, Школьная Улица, 10А",
+                    "okrug": null,
+                    "rayon": null,
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Троицкое и новомосковское окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(495) 334-00-56",
+                    "web_site": null,
+                    "e_mail": null,
+                    "X": "37,36677",
+                    "Y": "55,516896",
+                    "global_id": "86931139"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.613038,
+                    55.641641
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "917da87a-7063-4b9e-bc07-02ed4adb14b1",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы Лицей № 1580 при МГТУ имени Н.Э.Баумана",
+                    "adress": "117639 г. Москва, Балаклавский  проспект д. 6А",
+                    "okrug": "Южный административный округ",
+                    "rayon": "Нагорный район",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Южное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(499) 619-48-40",
+                    "web_site": "lycu1580.mskobr.ru",
+                    "e_mail": "sch1580@sinergi.ru",
+                    "X": "37,613038",
+                    "Y": "55,641641",
+                    "global_id": "87029150"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.598087,
+                    55.737266
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "a69bf77d-88b0-4f8e-a4af-09fc8076dcfc",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы Лингвистический лицей № 1555",
+                    "adress": "119034 г. Москва, Хилков пер., д. 3А",
+                    "okrug": "Центральный административный округ",
+                    "rayon": "район Хамовники",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Центральное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(499) 766-93-12",
+                    "web_site": "lycc1555.mskobr.ru",
+                    "e_mail": "Lyceum1555@rambler.ru",
+                    "X": "37,598087",
+                    "Y": "55,737266",
+                    "global_id": "86930619"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.66296,
+                    55.752711
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "fefb5a80-044a-4402-9dea-921391d80b9a",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей № 1581",
+                    "adress": "105120 г.Москва, Б.Полуярославский пер., д.7/4, стр. 1-1А",
+                    "okrug": "Центральный административный округ",
+                    "rayon": "Таганский район",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Центральное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(495) 916-18-86; (495) 916-38-73",
+                    "web_site": "lycc1581.mskobr.ru",
+                    "e_mail": "L1581@yandex.ru",
+                    "X": "37,66296",
+                    "Y": "55,752711",
+                    "global_id": "86904118"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.694959,
+                    55.779198
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "98af3784-fb23-4eab-b357-3e2f70d5dc90",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей № 1589",
+                    "adress": "105082 г.Москва, ул.Фридриха Энгельса, д.79, стр.1,2,3.",
+                    "okrug": "Центральный административный округ",
+                    "rayon": "Басманный район",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Центральное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(495) 261-15-45; (495) 267-68-80; (495) 975-16-41; (495) 975-18-76",
+                    "web_site": null,
+                    "e_mail": "licey@mail.ru",
+                    "X": "37,694959",
+                    "Y": "55,779198",
+                    "global_id": "86930430"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.616607,
+                    55.718614
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "49007e84-3869-47f3-8e08-7277b25d5f26",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей №1451",
+                    "adress": "115191 г. Москва, ул. Мытная, дом 50 корпус 3",
+                    "okrug": "Южный административный округ",
+                    "rayon": "Даниловский район",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Южное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(495) 954-42-05",
+                    "web_site": "cou1451.mskobr.ru",
+                    "e_mail": "sch1451@sinergi.ru",
+                    "X": "37,616607",
+                    "Y": "55,718614",
+                    "global_id": "87029302"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.652208,
+                    55.648279
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "58924686-992c-49de-90c6-9f5c8c0c28f7",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей № 1511 при \"Национальном исследовательском ядерном университете \"МИФИ\"",
+                    "adress": "115522 г. Москва, Пролетарский пр-кт д.6,корп.3",
+                    "okrug": "Южный административный округ",
+                    "rayon": "район Москворечье-Сабурово",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Южное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(499) 324-29-21",
+                    "web_site": "lycg1511.mskobr.ru",
+                    "e_mail": "Sch_1511@gor.educom.ru",
+                    "X": "37,652208",
+                    "Y": "55,648279",
+                    "global_id": "86930637"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.702005,
+                    55.657537
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "a8aaad86-b60f-466e-b201-fb3b7a9b796b",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей № 1524",
+                    "adress": "109382, г. Москва, ул. Судакова, дом 29",
+                    "okrug": "Юго-Восточный административный округ",
+                    "rayon": "район Люблино",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Юго-Восточное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "359-16-60",
+                    "web_site": "dsuv2716.mskobr.ru",
+                    "e_mail": "lyceum1524@mail.ru",
+                    "X": "37,702005",
+                    "Y": "55,657537",
+                    "global_id": "86930647"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.44304,
+                    55.861005
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "5ff92c89-89b1-459b-b4c6-29d5c9bf8e6e",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей № 1571",
+                    "adress": "125481, г. Москва, ул. Фомичевой, д. 1, корп. 1",
+                    "okrug": "Северо-Западный административный округ",
+                    "rayon": "район Северное Тушино",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Северо-Западное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(495) 492-35-11; (495) 492-35-71",
+                    "web_site": "lyc1571.mskobr.ru",
+                    "e_mail": "lic1571@szouo.ru ",
+                    "X": "37,44304",
+                    "Y": "55,861005",
+                    "global_id": "86931062"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.657402,
+                    55.672613
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "f1e98a90-2b14-408a-b6f6-f03c9d6311fd",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей №507",
+                    "adress": "115446 г. Москва, Садовники д.12",
+                    "okrug": "Южный административный округ",
+                    "rayon": "район Нагатино-Садовники",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Южное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(499) 618-26-60; (499) 618-25-94",
+                    "web_site": "cou1472.mskobr.ru",
+                    "e_mail": "sch507@sinergi.ru",
+                    "X": "37,657402",
+                    "Y": "55,672613",
+                    "global_id": "87028838"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.829177,
+                    55.819328
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "b03a1a92-5f19-41aa-a069-740a18a1c34d",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей № 1598",
+                    "adress": "107589, г.Москва, ул. Хабаровская, д. 18А",
+                    "okrug": "Восточный административный округ",
+                    "rayon": "район Гольяново",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Восточное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(495) 466-34-14; (495) 466-34-52",
+                    "web_site": "lycv1598.mskobr.ru/",
+                    "e_mail": "info-1598@yandex.ru",
+                    "X": "37,829177",
+                    "Y": "55,819328",
+                    "global_id": "87029985"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.54374,
+                    55.601957
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "bf1e1c9b-9db5-4aa0-abc3-5eb04a45b498",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей № 1561",
+                    "adress": "117463, г.Москва, Новоясеневский проспект, д.38, корп.2",
+                    "okrug": "Юго-Западный административный округ",
+                    "rayon": "район Ясенево",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Юго-Западное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "425-94-88",
+                    "web_site": "http://lycuz1561.mskobr.ru/",
+                    "e_mail": "licei1561@yandex.ru",
+                    "X": "37,54374",
+                    "Y": "55,601957",
+                    "global_id": "86931072"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.633649,
+                    55.764733
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "b246cd9b-e4a2-4af2-96ad-de935673cd56",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы Пушкинский лицей № 1500",
+                    "adress": "101000 г.Москва, Милютинский пер., д.18, стр.2",
+                    "okrug": "Центральный административный округ",
+                    "rayon": "Красносельский район",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Центральное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(495) 607-20-70",
+                    "web_site": "lycc1500.mskobr.ru",
+                    "e_mail": "1500lyc@mail.ru",
+                    "X": "37,633649",
+                    "Y": "55,764733",
+                    "global_id": "87028630"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.55282,
+                    55.702144
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "a07bf69b-b2d8-468d-9b6b-d06239f00f00",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей № 1525 \"Воробьевы горы\"",
+                    "adress": "119334, г. Москва, ул. Косыгина, дом 17",
+                    "okrug": "Юго-Западный административный округ",
+                    "rayon": "Гагаринский район",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Юго-Западное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "939-86-70",
+                    "web_site": "http://lycg1525.mskobr.ru/",
+                    "e_mail": "info@licey1525.ru",
+                    "X": "37,55282",
+                    "Y": "55,702144",
+                    "global_id": "87029986"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.59522,
+                    55.63149
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "b5814fa1-316a-4a06-b873-ab7770490b98",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей №1158",
+                    "adress": "117648, г. Москва, микрорайон Северное Чертаново корп. 809",
+                    "okrug": "Южный административный округ",
+                    "rayon": "район Чертаново Северное",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Южное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(495) 312-04-60",
+                    "web_site": "cou1158.mskobr.ru",
+                    "e_mail": "sch1158@sinergi.ru",
+                    "X": "37,59522",
+                    "Y": "55,63149",
+                    "global_id": "87029561"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.694124,
+                    55.640579
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "ec2e60a5-bf12-438e-aefd-0f65b9bbf641",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей № 1828 \"Сабурово\"",
+                    "adress": "115211 Москва, Каширское ш. д.55-7",
+                    "okrug": "Южный административный округ",
+                    "rayon": "район Москворечье-Сабурово",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Южное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "344-70-54",
+                    "web_site": "cou1828.mskobr.ru",
+                    "e_mail": "sch1828@sinergi.ru",
+                    "X": "37,694124",
+                    "Y": "55,640579",
+                    "global_id": "87028679"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.719448,
+                    55.69
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "47db9ea5-5cb6-4e63-ad9c-d1edf6c5804a",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей № 1524",
+                    "adress": "109382, г. Москва, ул. Судакова, дом 29",
+                    "okrug": "Юго-Восточный административный округ",
+                    "rayon": "район Люблино",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Юго-Восточное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "359-16-60",
+                    "web_site": "dsuv2716.mskobr.ru",
+                    "e_mail": "lyceum1524@mail.ru",
+                    "X": "37,719448",
+                    "Y": "55,69",
+                    "global_id": "87028778"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.757115,
+                    55.673812
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "2eed68a6-b918-4f41-8930-53a24ebf4c45",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей № 1524",
+                    "adress": "109382, г. Москва, ул. Судакова, дом 29",
+                    "okrug": "Юго-Восточный административный округ",
+                    "rayon": "район Люблино",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Юго-Восточное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "359-16-60",
+                    "web_site": "dsuv2716.mskobr.ru",
+                    "e_mail": "lyceum1524@mail.ru",
+                    "X": "37,757115",
+                    "Y": "55,673812",
+                    "global_id": "87028777"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.561972,
+                    55.731007
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "166043aa-2d7e-4420-abec-c50302bdfb22",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей № 1535",
+                    "adress": "119048 г. Москва, ул. Усачева,  д.50",
+                    "okrug": "Центральный административный округ",
+                    "rayon": "район Хамовники",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Центральное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(499) 245-57-42",
+                    "web_site": "lycc1535.mskobr.ru/",
+                    "e_mail": "Sch_1535@gor.educom.ru",
+                    "X": "37,561972",
+                    "Y": "55,731007",
+                    "global_id": "86930648"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.222124,
+                    55.994292
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "c528beae-05ec-4b42-a5d7-c9e8a80fa0ab",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей № 1557",
+                    "adress": "124536, г. Москва, Зеленоград, корп. 509",
+                    "okrug": "Зеленоградский административный округ",
+                    "rayon": "район Савёлки",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Зеленоградское окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(499) 734-68-08; (499) 734-25-20",
+                    "web_site": "lyczg1557.mskobr.ru/",
+                    "e_mail": "s1557@zou.ru",
+                    "X": "37,222124",
+                    "Y": "55,994292",
+                    "global_id": "87028605"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.612885,
+                    55.642603
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "7c4ccbb0-d515-4e85-8159-745488f28537",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы Лицей № 1580 при МГТУ имени Н.Э.Баумана",
+                    "adress": "117639 г. Москва, Балаклавский  проспект д. 6А",
+                    "okrug": "Южный административный округ",
+                    "rayon": "Нагорный район",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Южное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(499) 619-48-40",
+                    "web_site": "lycu1580.mskobr.ru",
+                    "e_mail": "sch1580@sinergi.ru",
+                    "X": "37,612885",
+                    "Y": "55,642603",
+                    "global_id": "86890338"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.360511,
+                    55.830274
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "51cac0b1-df94-4af2-bff6-351f40753f0e",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей № 1564",
+                    "adress": "125222, г. Москва, улица Рословка, дом 8",
+                    "okrug": "Северо-Западный административный округ",
+                    "rayon": "район Митино",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Северо-Западное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(495) 505-97-60",
+                    "web_site": null,
+                    "e_mail": "info@lic1564.ru",
+                    "X": "37,360511",
+                    "Y": "55,830274",
+                    "global_id": "87029008"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.446775,
+                    55.857583
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "629518bb-3af3-469f-b9fb-c6e549182899",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей № 1571",
+                    "adress": "125481, г. Москва, ул. Фомичевой, д. 1, корп. 1",
+                    "okrug": "Северо-Западный административный округ",
+                    "rayon": "район Северное Тушино",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Северо-Западное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(495) 492-35-11; (495) 492-35-71",
+                    "web_site": "lyc1571.mskobr.ru",
+                    "e_mail": "lic1571@szouo.ru ",
+                    "X": "37,446775",
+                    "Y": "55,857583",
+                    "global_id": "87029780"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.559781,
+                    55.78245
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "bb2941c2-abdc-40d2-ab0d-d598ea7ae3c9",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей №1550",
+                    "adress": "125284 г. Москва, ул. Беговая, д. 19",
+                    "okrug": "Северный административный округ",
+                    "rayon": "район Беговой",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Северное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "945-86-00",
+                    "web_site": "lycg1550.mskobr.ru",
+                    "e_mail": "infoliceum1550@gmail.com",
+                    "X": "37,559781",
+                    "Y": "55,78245",
+                    "global_id": "86914935"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.564869,
+                    55.726086
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "d2fc02c3-39d0-47ad-bfae-fcfd83d8c77b",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей № 1535",
+                    "adress": "119048 г. Москва, ул. Усачева,  д.50",
+                    "okrug": "Центральный административный округ",
+                    "rayon": "район Хамовники",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Центральное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(499) 245-57-42",
+                    "web_site": "lycc1535.mskobr.ru/",
+                    "e_mail": "Sch_1535@gor.educom.ru",
+                    "X": "37,564869",
+                    "Y": "55,726086",
+                    "global_id": "87029454"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.599081,
+                    55.581178
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "6a71d6c3-065f-419d-a31d-9eadcc584b33",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы центр образования № 504 \"Полюс\"",
+                    "adress": "117556, г. Москва, Варшавское ш., д. 67",
+                    "okrug": "Южный административный округ",
+                    "rayon": "район Чертаново Южное",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Южное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(495) 389-15-27",
+                    "web_site": "сou504.mskobr.ru",
+                    "e_mail": "sch504@sinergi.ru",
+                    "X": "37,599081",
+                    "Y": "55,581178",
+                    "global_id": "87029757"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.591917,
+                    55.583119
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "a07f7cc8-faf5-4a42-bbd2-55a206e5576b",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы центр образования № 504 \"Полюс\"",
+                    "adress": "117556, г. Москва, Варшавское ш., д. 67",
+                    "okrug": "Южный административный округ",
+                    "rayon": "район Чертаново Южное",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Южное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(495) 389-15-27",
+                    "web_site": "сou504.mskobr.ru",
+                    "e_mail": "sch504@sinergi.ru",
+                    "X": "37,591917",
+                    "Y": "55,583119",
+                    "global_id": "86931033"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.558892,
+                    55.782268
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "f12d99cb-1f57-4b57-a6d4-81fcdcd97c35",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей №1550",
+                    "adress": "125284 г. Москва, ул. Беговая, д. 19",
+                    "okrug": "Северный административный округ",
+                    "rayon": "район Беговой",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Северное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "945-86-00",
+                    "web_site": "lycg1550.mskobr.ru",
+                    "e_mail": "infoliceum1550@gmail.com",
+                    "X": "37,558892",
+                    "Y": "55,782268",
+                    "global_id": "87029384"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.553572,
+                    55.70229
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "bc067acd-2e72-4079-bd43-f6a49f4e3e12",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей № 1525 \"Воробьевы горы\"",
+                    "adress": "119334, г. Москва, ул. Косыгина, дом 17",
+                    "okrug": "Юго-Западный административный округ",
+                    "rayon": "Гагаринский район",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Юго-Западное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "939-86-70",
+                    "web_site": "http://lycg1525.mskobr.ru/",
+                    "e_mail": "info@licey1525.ru",
+                    "X": "37,553572",
+                    "Y": "55,70229",
+                    "global_id": "87029989"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.540485,
+                    55.864313
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "22c92fce-6ee0-4014-9c80-7c51c0f4b37e",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей № 1594",
+                    "adress": "127486, г.Москва,  Дегунинская улица, дом 2",
+                    "okrug": "Северный административный округ",
+                    "rayon": "район Западное Дегунино",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Северное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(495) 489-90-87; (495) 487-20-04",
+                    "web_site": "lycs1594.mskobr.ru",
+                    "e_mail": "sch186@mail.ru",
+                    "X": "37,540485",
+                    "Y": "55,864313",
+                    "global_id": "86890305"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.65403,
+                    55.768499
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "2e44b4ce-8fec-4e58-bf19-e994968e087f",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей № 1589",
+                    "adress": "105082 г.Москва, ул.Фридриха Энгельса, д.79, стр.1,2,3.",
+                    "okrug": "Центральный административный округ",
+                    "rayon": "Басманный район",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Центральное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(495) 261-15-45; (495) 267-68-80; (495) 975-16-41; (495) 975-18-76",
+                    "web_site": null,
+                    "e_mail": "licey@mail.ru",
+                    "X": "37,65403",
+                    "Y": "55,768499",
+                    "global_id": "87029695"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.720004,
+                    55.690865
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "bff91cd3-731a-43ea-8170-8e96696e9f00",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей № 1524",
+                    "adress": "109382, г. Москва, ул. Судакова, дом 29",
+                    "okrug": "Юго-Восточный административный округ",
+                    "rayon": "район Люблино",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Юго-Восточное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "359-16-60",
+                    "web_site": "dsuv2716.mskobr.ru",
+                    "e_mail": "lyceum1524@mail.ru",
+                    "X": "37,720004",
+                    "Y": "55,690865",
+                    "global_id": "87028779"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.555175,
+                    55.702928
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "df2019d8-14db-4c79-9bed-691f25380309",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей № 1525 \"Воробьевы горы\"",
+                    "adress": "119334, г. Москва, ул. Косыгина, дом 17",
+                    "okrug": "Юго-Западный административный округ",
+                    "rayon": "Гагаринский район",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Юго-Западное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "939-86-70",
+                    "web_site": "http://lycg1525.mskobr.ru/",
+                    "e_mail": "info@licey1525.ru",
+                    "X": "37,555175",
+                    "Y": "55,702928",
+                    "global_id": "87029987"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.255401,
+                    55.989999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "0c2e4be4-dac4-4d50-8b80-e6b7c8f1b110",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей № 1557",
+                    "adress": "124536, г. Москва, Зеленоград, корп. 509",
+                    "okrug": "Зеленоградский административный округ",
+                    "rayon": "район Савёлки",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Зеленоградское окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(499) 734-68-08; (499) 734-25-20",
+                    "web_site": "lyczg1557.mskobr.ru/",
+                    "e_mail": "s1557@zou.ru",
+                    "X": "37,255401",
+                    "Y": "55,989999",
+                    "global_id": "87013800"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.555175,
+                    55.702928
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "776bdee4-d583-4de5-9229-8a2235c4ddbc",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей № 1525 \"Воробьевы горы\"",
+                    "adress": "119334, г. Москва, ул. Косыгина, дом 17",
+                    "okrug": "Юго-Западный административный округ",
+                    "rayon": "Гагаринский район",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Юго-Западное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "939-86-70",
+                    "web_site": "http://lycg1525.mskobr.ru/",
+                    "e_mail": "info@licey1525.ru",
+                    "X": "37,555175",
+                    "Y": "55,702928",
+                    "global_id": "86914934"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.591433,
+                    55.599983
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "ee1d01e6-a9c2-41ed-94f2-42bdec116e19",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы центр образования № 504 \"Полюс\"",
+                    "adress": "117556, г. Москва, Варшавское ш., д. 67",
+                    "okrug": "Южный административный округ",
+                    "rayon": "район Чертаново Южное",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Южное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(495) 389-15-27",
+                    "web_site": "сou504.mskobr.ru",
+                    "e_mail": "sch504@sinergi.ru",
+                    "X": "37,591433",
+                    "Y": "55,599983",
+                    "global_id": "87029759"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.59306,
+                    55.631135
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "78dde0e6-c377-431c-82e4-5dd293dfe2ed",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей №1158",
+                    "adress": "117648, г. Москва, микрорайон Северное Чертаново корп. 809",
+                    "okrug": "Южный административный округ",
+                    "rayon": "район Чертаново Северное",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Южное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(495) 312-04-60",
+                    "web_site": "cou1158.mskobr.ru",
+                    "e_mail": "sch1158@sinergi.ru",
+                    "X": "37,59306",
+                    "Y": "55,631135",
+                    "global_id": "86931038"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.483937,
+                    55.780362
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "7b6a0eea-41c4-4861-baba-9ec9da6cce54",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей № 1560",
+                    "adress": "123423, г. Москва, ул.  Тухачевского, д. 17, корп. 3",
+                    "okrug": "Северо-Западный административный округ",
+                    "rayon": "район Хорошёво-Мнёвники",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Северо-Западное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(499) 191-93-34",
+                    "web_site": "lycsz1560.mskobr.ru",
+                    "e_mail": "Lic1560@szouo.ru",
+                    "X": "37,483937",
+                    "Y": "55,780362",
+                    "global_id": "86904019"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.618077,
+                    55.737
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "d39163eb-a67e-4022-be9b-226f0fa1ce54",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей № 1548",
+                    "adress": "119180 г.Москва, Бродников пер., д.3",
+                    "okrug": "Центральный административный округ",
+                    "rayon": "район Якиманка",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Центральное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(499) 238-02-07",
+                    "web_site": "lycc1548.mskobr.ru",
+                    "e_mail": "1548lyc@couo.ru",
+                    "X": "37,618077",
+                    "Y": "55,737",
+                    "global_id": "86904116"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.440873,
+                    55.854644
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "676cdfec-92e4-4a20-92d9-fe4c6df20db7",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей № 1571",
+                    "adress": "125481, г. Москва, ул. Фомичевой, д. 1, корп. 1",
+                    "okrug": "Северо-Западный административный округ",
+                    "rayon": "район Северное Тушино",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Северо-Западное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(495) 492-35-11; (495) 492-35-71",
+                    "web_site": "lyc1571.mskobr.ru",
+                    "e_mail": "lic1571@szouo.ru ",
+                    "X": "37,440873",
+                    "Y": "55,854644",
+                    "global_id": "87029778"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.697065,
+                    55.639911
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "dc5a10ed-302c-4230-9b1f-f554a6a065ad",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей № 1828 \"Сабурово\"",
+                    "adress": "115211 Москва, Каширское ш. д.55-7",
+                    "okrug": "Южный административный округ",
+                    "rayon": "район Москворечье-Сабурово",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Южное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "344-70-54",
+                    "web_site": "cou1828.mskobr.ru",
+                    "e_mail": "sch1828@sinergi.ru",
+                    "X": "37,697065",
+                    "Y": "55,639911",
+                    "global_id": "87028681"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.531974,
+                    55.804971
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "3fabacef-52dc-45cb-9f9e-57b042e6a156",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей № 1575",
+                    "adress": "125319 г. Москва, ул. Усиевича, д. 6",
+                    "okrug": "Северный административный округ",
+                    "rayon": "район Аэропорт",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Северное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(499) 151-99-82",
+                    "web_site": "lyc1575s.mskobr.ru",
+                    "e_mail": "liceum1575@mail.ru",
+                    "X": "37,531974",
+                    "Y": "55,804971",
+                    "global_id": "86930556"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.614466,
+                    55.712832
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "36f7e2f6-a08e-425b-b6a9-03bf9a754a0c",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей №1451",
+                    "adress": "115191 г. Москва, ул. Мытная, дом 50 корпус 3",
+                    "okrug": "Южный административный округ",
+                    "rayon": "Даниловский район",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Южное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(495) 954-42-05",
+                    "web_site": "cou1451.mskobr.ru",
+                    "e_mail": "sch1451@sinergi.ru",
+                    "X": "37,614466",
+                    "Y": "55,712832",
+                    "global_id": "87029303"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.608043,
+                    55.721823
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "3614d7f9-7612-41ad-b141-52fd02922f76",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы Лицей № 1546 \"Плехановец\"",
+                    "adress": "Центральный, Якиманка, ул. Донская, д. 21",
+                    "okrug": "Центральный административный округ",
+                    "rayon": "район Якиманка",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Центральное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(499) 236-50-40",
+                    "web_site": "lycc1546.mskobr.ru",
+                    "e_mail": "gym1546@mail.ru",
+                    "X": "37,608043",
+                    "Y": "55,721823",
+                    "global_id": "86887489"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.642875,
+                    55.87454
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "4c14eaf9-c38c-428d-afb1-4557b7a36a49",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей № 1568",
+                    "adress": "127221, г. Москва, проезд Шокальского, дом 7, корпус 2",
+                    "okrug": "Северо-Восточный административный округ",
+                    "rayon": "район Южное Медведково",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Северо-Восточное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "656-88-13",
+                    "web_site": "lyc1568sv.mskobr.ru/",
+                    "e_mail": "fml1568@yandex.ru",
+                    "X": "37,642875",
+                    "Y": "55,87454",
+                    "global_id": "86907936"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.540713,
+                    55.692515
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "06b655fa-5716-4aae-bf93-0d429645ed8a",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей № 1533 (информационных технологий)",
+                    "adress": "119296, г. Москва, Ломоносовский проспект, дом 16",
+                    "okrug": "Юго-Западный административный округ",
+                    "rayon": "Гагаринский район",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Юго-Западное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(499) 133-24-35",
+                    "web_site": null,
+                    "e_mail": "info@lit.msu.ru",
+                    "X": "37,540713",
+                    "Y": "55,692515",
+                    "global_id": "86930405"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.699859,
+                    55.638442
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "abcf1dfc-db35-4eeb-a78d-ea33cc9071bd",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы лицей № 1828 \"Сабурово\"",
+                    "adress": "115211 Москва, Каширское ш. д.55-7",
+                    "okrug": "Южный административный округ",
+                    "rayon": "район Москворечье-Сабурово",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Южное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "344-70-54",
+                    "web_site": "cou1828.mskobr.ru",
+                    "e_mail": "sch1828@sinergi.ru",
+                    "X": "37,699859",
+                    "Y": "55,638442",
+                    "global_id": "86931179"
+                }
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.632855,
+                    55.769089
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "DatasetId": 552,
+                "VersionNumber": 1,
+                "ReleaseNumber": 1,
+                "RowId": "fc54d1fd-a709-45a5-b855-a5963a0796ae",
+                "Attributes": {
+                    "name": "Государственное бюджетное образовательное учреждение города Москвы Пушкинский лицей № 1500",
+                    "adress": "101000 г.Москва, Милютинский пер., д.18, стр.2",
+                    "okrug": "Центральный административный округ",
+                    "rayon": "Красносельский район",
+                    "form_of_incorporation": "Государственное",
+                    "submission": "Центральное окружное управление образования",
+                    "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+                    "vid_uchrezhdeniyz": "Лицей",
+                    "telephone": "(495) 607-20-70",
+                    "web_site": "lycc1500.mskobr.ru",
+                    "e_mail": "1500lyc@mail.ru",
+                    "X": "37,632855",
+                    "Y": "55,769089",
+                    "global_id": "86930654"
+                }
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
